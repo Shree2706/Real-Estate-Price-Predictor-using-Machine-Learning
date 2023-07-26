@@ -8,3 +8,5 @@ In the notebook first we import the data which is in the '.csv' format, then per
 After that outlier detection and removal is done, and then finally clean the data.
 
 After cleaning the data apply and compare the accuracy scores of the alogrithms.
+
+And our ANN model is successfully created which can predict the price of the real estate properties of the regions of Bangalore, as per the dataset.
